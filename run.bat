@@ -1,0 +1,1 @@
+java -classpath classes java111.demo.%1 %2 %3
